@@ -11,7 +11,7 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
     'm785164209-189250b818f8cab885889b2d',  // 23cxy.com
-    'm785568777-26848f64bfe168b703262d06',  // kms.23cxy.com
+    // 'm785568777-26848f64bfe168b703262d06',  // kms.23cxy.com
     'm785568808-78ac3914a6ba64c521302105',  // status.23cxy.com
     // 'm785591353-f0036697c1f6f3d6b3bbd67f',  // 23cxy.art
     // 'm785591350-3e1e53c408aada85d37e934d',  // 23cxy.club
