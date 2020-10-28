@@ -5,7 +5,7 @@ window.Config = {
   SiteName: '爱上程序员',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'https://status.23cxy.com',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
