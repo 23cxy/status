@@ -13,7 +13,11 @@ window.Config = {
   ],
   ShowLink: true,
   CountDays: 60,
-  Navi: [
+  Navi: [    
+    {
+      text: '镜像',
+      url: 'https://23cxy.github.io/status/'
+    },
     {
       text: '返回主站',
       url: 'https://23cxy.com'
