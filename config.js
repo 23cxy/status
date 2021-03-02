@@ -2,7 +2,7 @@
 window.Config = {
   SiteName: '爱上程序员',
   SiteUrl: 'https://status.23cxy.com',
-  ApiDomain: 'api.status.23cxy.com',
+  ApiDomain: 'status.api.23cxy.com',
   ApiKeys: [
     'm785164209-189250b818f8cab885889b2d',  // 23cxy.com
     'm785591349-ca420c934301ac6f2bf0107b',  // 23cxy.me
